@@ -17,7 +17,7 @@ This code was made with dynamic adjustment in mind. A user can change several va
 This code was part of our final project for MIS 545 Data Mining for Business Intelligence, a course at the University of Arizona. 
 
 The team members for the project are as follows:
-Andrew Holland
-Fawaaz Abdulazeez
-Osamah Adel Ba Hamid
-Asad Tahir Quraishy
+- Andrew Holland
+- Fawaaz Abdulazeez
+- Osamah Adel Ba Hamid
+- Asad Tahir Quraishy
